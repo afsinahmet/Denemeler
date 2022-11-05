@@ -47,8 +47,6 @@ public class CinZodyagi {
             case 11:
                 zodyak = "Koyun";
                 break;
-
-
         }
 
         System.out.print("Çin Zodyağı Burcunuz: " + zodyak);
